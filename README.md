@@ -18,10 +18,7 @@ This project uses real-world-inspired data to perform exploratory data analysis 
 ### 2. Species Count by Category
 - Count of animals grouped by type (Mammals, Reptiles, etc.).
 
-### 3. Habitat Distribution
-- Pie chart showing how habitats are distributed across species.
-
-### 4. Average Extinction Risk by Habitat
+### 3. Average Extinction Risk by Habitat
 - Bar chart replacing the boxplot for clarity.
 
 ---
