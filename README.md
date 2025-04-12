@@ -29,3 +29,5 @@ This project uses real-world-inspired data to perform exploratory data analysis 
 2. Install dependencies:
    ```bash
    pip install pandas matplotlib
+
+## Sample Figures In Figures Branch
